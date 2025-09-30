@@ -13,8 +13,8 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 
 **Course Logistics**
 
-   * **Time:** Sun. & Tues. 15:00 - 16:30
-   * **Location:** CE-201 & [vc.sharif.edu/ch/amsadeghzadeh](https://vc.sharif.edu/ch/amsadeghzadeh)
+   * **Time:** -
+   * **Location:** - & [vc.sharif.edu/ch/amsadeghzadeh](https://vc.sharif.edu/ch/amsadeghzadeh)
    * **Contact:** Announcements and all course-related questions will happen on the [Quera](https://quera.org/course/add_to_course/course/18760/) forum. 
      * All official announcements and communication will happen over Quera.
      * For external enquiries, emergencies, or personal matters that you don't wish to put in a private post, you can email me at sadeghzadeh_at_sharif_dot_edu
@@ -34,13 +34,9 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 
 **Course Staff**
 
-* _Ali Abdollahi_ (Head Course Assistant) - Email: [aliabdollahi024a_at_gmail.com](mailto:aliabdollahi024a@gmail.com)
-* _Ali Javeri_ (Head Course Assistant) - Email: [ajaveri1378_at_gmail.com](mailto:ajaveri1378@gmail.com)
-* _Alireza Sakhaei_ (Course Assistant) - Email: [alirezasakhaeirad_at_gmail.com](mailto:alirezasakhaeirad@gmail.com)
-*  _Raoof Zare Moayedi_ (Course Assistant) - Email: [raoofmoayedi2000_at_gmail.com](mailto:raoofmoayedi2000@gmail.com)
-*  _Matin Alinejad_ (Course Assistant) - Email: [matin.alnj_at_gmail.com](mailto:matin.alnj@gmail.com)
-* _Mohammad Reza Mirbagheri_ (Course Assistant) - Email: [rezamirbagheri110_at_gmail.com](mailto:rezamirbagheri110@gmail.com)
-* _Ramtin Moslemi_ (Course Assistant)  - Email: [ramtin4moslemi_at_gmail.com](mailto:ramtin4moslemi@gmail.com)
+* _Arian Komaei Koma_ (Head Course Assistant) - Email: [ariankomaei_at_gmail.com](mailto:ariankomaei@gmail.com)
+* _Alireza Faraj Tabrizi_ (Head Course Assistant) - Email: [Alirezafarajtabrizi15_at_gmail.com](mailto:Alirezafarajtabrizi15@gmail.com)
+
 
 
 
@@ -48,7 +44,7 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 
 **Course Pages** 
 
-* [spml2024.github.io](spml2024.github.io) -> Course information, syllabus, and materials.
+* [spml2025.github.io](spml2025.github.io) -> Course information, syllabus, and materials.
 * [Quera](https://quera.org/course/add_to_course/course/18760/) (Get the password from course staff) -> Announcements, assignments, and all course-related questions.
 
 
