@@ -16,7 +16,7 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
    * **Time:** -
    * **Location:** - & [vc.sharif.edu/ch/amsadeghzadeh](https://vc.sharif.edu/ch/amsadeghzadeh)
    * **Contact:** Announcements and all course-related questions will happen on the [Quera](https://quera.org/course/add_to_course/course/18760/) forum. 
-     * All official announcements and communication will happen over Quera.
+    * All official announcements and communication will happen over [Telegram](https://t.me/SPML2025) channel.
      * For external enquiries, emergencies, or personal matters that you don't wish to put in a private post, you can email me at sadeghzadeh_at_sharif_dot_edu
 
 
@@ -45,8 +45,9 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 **Course Pages** 
 
 * [spml2025.github.io](spml2025.github.io) -> Course information, syllabus, and materials.
+* [Course Telgram Channel](https://t.me/SPML2025)
 * [Quera](https://quera.org/course/add_to_course/course/18760/) (Get the password from course staff) -> Announcements, assignments, and all course-related questions.
-
+* [Course Telegram Group](https://t.me/kp_gfe) -> Contact the Head Teaching Assistant for student confirmation and group inclusion.
 
 
 **Main References** 
@@ -67,7 +68,15 @@ the first part of the course.
 
 **Grading Policy**
 
-Assignments (30%), Mid-term (and Mini-exam) (20%), Papers review and presentation(20%), and Final (30%).
+- Assignments (30%) 
+
+- 4 Quizzes (10%)
+
+- Presentation (10%)
+
+- Mid-term (20%)
+
+- Final (30%).
 
 
 
@@ -120,13 +129,13 @@ HW[HW#]-[FamilyName]-[std#] (For example HW3-Hoseini-401234567)
 |---|-------|-------------------|--------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------|
 | 1 | 7/19 | Course Intro.     | The scope and contents of the course       | [Lec1](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec1.pdf)    | [Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/abs/1611.03814)                 | [HW0](https://github.com/spml2025/spml2025.github.io/raw/main/HWs/HW0.pdf)          |                                                                                                                                                 |     |
 | 2 | 7/21 | Deep Learning Review     | ML Intro., Perceptron, Logistic regression, GD, Regularization       | [Lec2](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec2.pdf)    | [Pattern Recognition and Machine Learning Ch.1 & Ch.4](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop\%20-\%20Pattern\%20Recognition\%20And\%20Machine\%20Learning\%20-\%20Springer\%20\%202006.pdf) <br> [Deep Learning Ch.5 & Ch.6](https://www.deeplearningbook.org/)                                                                                                                                                                          |     |
-| 3 | 7/26 | Adversarial Examples     |   Softmax Classifier, Neural networks          | [Lec3](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec3.pdf)    |  [Deep Learning Ch.6, ch.8 & Ch.9](https://www.deeplearningbook.org/)  <br> [The Neural Network, A Visual Introduction](https://www.youtube.com/watch?v=UOvPeC8WOt8&t=20s) <br> [Why are neural networks so effective?]                  |     |
-| 4 | 7/28 | Adversarial Examples    | Forward and backward propagation, Convolutional Neural Networks (CNNs)         | [Lec4](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec4.pdf)    | [Deep Learning Ch.6 & ch.9](https://www.deeplearningbook.org/)   <br> [Dive into Deep Learning Ch. 8](http://d2l.ai/) <br> [Backpropagation for a Linear Layer](https://web.eecs.umich.edu/~justincj/teaching/eecs442/notes/linear-backprop.html)    <br> [What is backpropagation really doing?](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)     | [HW1](https://github.com/spml2025/spml2025.github.io/raw/main/HWs/HW1.pdf)                                                                                                                                                                      |     |
-| 5 | 8/3 | Adversarial Examples             | AE Generating Methods                       | [Lec5](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec5.pdf)   | [Intriguing Properties of Neural Networks](https://arxiv.org/abs/1312.6199) |     | 
-| 6 | 8/5  | Adversarial Examples             | AE Generating Methods                              | [Lec6](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec6.pdf)   |  [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)                  |      |  [Quiz1]()
-| 7 | 8/10 | Adversarial Examples             |      AE Generating Methods                  | [Lec7](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec7.pdf)   |   [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)                                                           |    | 
-| 8 | 8/12 | Adversarial Examples             |      AE Generating Methods                  | [Lec8](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec8.pdf)   |   [Universal Adversarial Perturbations](https://arxiv.org/abs/1610.08401) <br> [Adversarial Patch](https://arxiv.org/abs/1712.09665)                                                             |    |
-| 9 | 8/17 | Adversarial Examples             |      Defenses Against AEs                 | [Lec9](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec9.pdf)   |    [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) <br> [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](http://proceedings.mlr.press/v80/athalye18a/athalye18a.pdf)                                                               |    |
+| 3 | 7/26 | Adversarial Examples     |             | [Lec3](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec3.pdf)    |  [Deep Learning Ch.6, ch.8 & Ch.9](https://www.deeplearningbook.org/)  <br> [The Neural Network, A Visual Introduction](https://www.youtube.com/watch?v=UOvPeC8WOt8&t=20s) <br> [Why are neural networks so effective?]                  |     |
+| 4 | 7/28 | Adversarial Examples    |          | [Lec4](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec4.pdf)    | [Deep Learning Ch.6 & ch.9](https://www.deeplearningbook.org/)   <br> [Dive into Deep Learning Ch. 8](http://d2l.ai/) <br> [Backpropagation for a Linear Layer](https://web.eecs.umich.edu/~justincj/teaching/eecs442/notes/linear-backprop.html)    <br> [What is backpropagation really doing?](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)     | [HW1](https://github.com/spml2025/spml2025.github.io/raw/main/HWs/HW1.pdf)                                                                                                                                                                      |     |
+| 5 | 8/3 | Adversarial Examples             |                        | [Lec5](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec5.pdf)   | [Intriguing Properties of Neural Networks](https://arxiv.org/abs/1312.6199) |     | 
+| 6 | 8/5  | Adversarial Examples             |                              | [Lec6](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec6.pdf)   |  [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)                  |      |  [Quiz1]()
+| 7 | 8/10 | Adversarial Examples             |                        | [Lec7](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec7.pdf)   |   [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)                                                           |    | 
+| 8 | 8/12 | Black Box AE              |                        | [Lec8](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec8.pdf)   |   [Universal Adversarial Perturbations](https://arxiv.org/abs/1610.08401) <br> [Adversarial Patch](https://arxiv.org/abs/1712.09665)                                                             |    |
+| 9 | 8/17 | Black Box AE             |                       | [Lec9](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec9.pdf)   |    [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) <br> [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](http://proceedings.mlr.press/v80/athalye18a/athalye18a.pdf)                                                               |    |
 | 10 | 8/19 |           |                    |   |                                                            |    | 
 | 11 | 8/24 | Adversarial Examples             |      Defenses Against AEs             | [Lec10](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec10.pdf)   |  [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/pdf/1902.02918) <br> [Provably robust deep learning via adversarially trained smoothed classifiers](https://proceedings.neurips.cc/paper/2019/file/3a24b25a7b092a252166a1641ae953e7-Paper.pdf)                                                            |    |
 | 12 | 8/26 | Adversarial Examples             |      Defenses Against AEs                  | [Lec11](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec11.pdf)   |   [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/pdf/1902.02918) <br> [Provably robust deep learning via adversarially trained smoothed classifiers](https://proceedings.neurips.cc/paper/2019/file/3a24b25a7b092a252166a1641ae953e7-Paper.pdf) <br> [Practical Black-Box Attacks against Machine Learning](https://www.cs.purdue.edu/homes/bb/2020-fall-cs590bb/docs/at/attacks-against-machine-learning.pdf)                                                          |    | [Quiz2]()
