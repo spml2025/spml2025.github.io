@@ -6,7 +6,6 @@
 
 &nbsp;&nbsp;&nbsp;
 
-v
 _Welcome_ to the public page for the course on Security and Privacy in Machine Learning (SPML). The main objectives of the course are to introduce students to the principles of security and privacy in machine learning. The students become familiar with the vulnerabilities of machine learning in the training and inference phases and the methods to improve the robustness and privacy of machine learning models.
 
 
@@ -114,6 +113,15 @@ the first part of the course.
 Submit your answers in .pdf or .zip file in course page on Quera website, with the following format:
 HW[HW#]-[FamilyName]-[std#] (For example HW3-Hoseini-401234567)
 
+###  Homework Policy
+
+**Important:**
+- All **theory homework must be handwritten.**  
+- **Do not submit** LaTeX or Word-formatted documents for theory assignments — these **will not be accepted.**  
+- If any part of your homework is **detected to be written by AI**, you will **receive no score** for that assignment.  
+- You may use AI tools for assistance (e.g., brainstorming ideas, clarifying concepts, or debugging), but **you must not include AI-generated text directly in your submission**. All submitted work should be written in your own words and understanding.
+
+
 
 
 **Late Policy**
@@ -128,7 +136,7 @@ HW[HW#]-[FamilyName]-[std#] (For example HW3-Hoseini-401234567)
 &nbsp;&nbsp;&nbsp;
 
 
-| # | Date  | Topic             | Content                                    | Lecture | Reading| HWs | Quiz
+| # | Date  | Topic | Content| Lecture | Reading| HWs | Quiz
 |---|-------|-------------------|--------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------|
 | 1 | 7/19 | Course Intro.     | The scope and contents of the course       | [Lec1](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec1.pdf)    | [Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/abs/1611.03814)                 |          |                                                                                                                                                 |     |
 | 2 | 7/21 | Deep Learning Review     | ML Intro., Perceptron, Logistic regression, GD, Regularization       | [Lec2](https://github.com/spml2025/spml2025.github.io/raw/main/Lectures/Lec2.pdf)    | [Pattern Recognition and Machine Learning Ch.1 & Ch.4](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop\%20-\%20Pattern\%20Recognition\%20And\%20Machine\%20Learning\%20-\%20Springer\%20\%202006.pdf) <br> [Deep Learning Ch.5 & Ch.6](https://www.deeplearningbook.org/)                                                                                                                                                                          |     |
