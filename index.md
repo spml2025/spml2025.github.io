@@ -12,7 +12,7 @@ _Welcome_ to the public page for the course on Security and Privacy in Machine L
 
 **Course Logistics**
 
-   * **Time:** -
+   * **Time:**  Saturday &  Monday: 10:30 – 12:00
    * **Location:** Room 402 & [vc.sharif.edu/ch/amsadeghzadeh](https://vc.sharif.edu/ch/amsadeghzadeh)
    * **Contact:** Announcements and all course-related questions will happen on the [Quera](https://quera.org/course/add_to_course/course/23877/) forum. 
     * All official announcements and communication will happen over [Telegram](https://t.me/SPML2025) channel.
